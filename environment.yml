@@ -1,8 +1,0 @@
-name: pokemon-data-analysis
-channels:
-  - conda-forge
-dependencies:
-  - numpy
-  - pandas
-  - matplotlib
-  - seaborn
