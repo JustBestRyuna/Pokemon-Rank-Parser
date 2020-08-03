@@ -1,5 +1,5 @@
-import constants
-import crawl
+from constants import *
+from crawl import *
 
 # 해당 시즌의 기본 정보를 보여주는 함수입니다.
 def display_season_data(num):
