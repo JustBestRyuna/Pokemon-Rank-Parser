@@ -1,3 +1,6 @@
+import constants
+import crawl
+
 # 해당 시즌의 기본 정보를 보여주는 함수입니다.
 def display_season_data(num):
     season = get_seasons()[str(num)]
